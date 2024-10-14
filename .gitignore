@@ -7,5 +7,7 @@ main_code_notused.py
 outputs
 uploads
 exports
-
-
+Components
+main
+app
+predict_endpoint
